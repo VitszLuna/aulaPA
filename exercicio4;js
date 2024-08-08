@@ -1,0 +1,7 @@
+let salario1 = 2500.00
+let salario2 = 10000.00;;
+let media = ((salario1 + salario2)/2);
+
+if (media > 2000.00) {
+    console.log(`Os valores saláriais são:${salario1}  e ${salario2}`);
+}
