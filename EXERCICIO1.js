@@ -5,6 +5,6 @@ if (valor1 > valor2) {
     console.log(`O maior valor é o valor ${valor1}`);
 } 
 
-if (banana > maca) {
+if (valor2 > valor1) {
     console.log(`O maior valor é o valor ${valor2}`);
 }
